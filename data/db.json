@@ -5,7 +5,7 @@
       "es_AR": "Administrativa Comercial",
       "en_EN": "Full stack developer"
     },
-    "picture" : "https://image.ibb.co/mB1KTL/foto-cv-edit.jpg",
+    "picture" : "https://image.ibb.co/mMQmCq/fotocvromina.jpg",
     "degree"  : {
       "name":{
         "es_AR": "Licenciada en Administración",
@@ -14,7 +14,7 @@
       "university": "Universidad Virtual de Quilmes"
     },
     "email"   : "romiortega88@gmail.com",
-    "phone"   : "+54 (02920-15-554540)",
+    "phone"   : "+54 (291-4623226)",
     "languages":[
       {
         "type": {
@@ -40,7 +40,7 @@
     "socialConnections":[
       {
         "description":"linkedin",
-        "url":"https://www.linkedin.com/in/matias-moron-gonzalo"
+        "url":"https://www.linkedin.com/in/romina-ortega"
       },
       {
         "description":"facebook",
@@ -65,7 +65,7 @@
       "icon":"objectives",
       "data":[
         {
-          "es_AR": "Estar a la vanguardia para resolver las necesidades planteadas de la mejor forma posible, apuntando a la innovación en mejora de la empresa.",
+          "es_AR": "Me presento como una persona responsable y organizada, siempre dispuesta a confrontar nuevos desafíos para incrementar mi experiencia profsional y personal",
           "en_EN": "Being at the forefront to solve the needs raised in the best possible way, aiming at innovation in business improvement."
         },
         {
@@ -82,15 +82,15 @@
       "icon":"work",
       "data":[
         {
-          "companyName": "Cooperativa Obrera",
+          "companyName": "Arias Hnos. S.A. - Concesionario Oficial Volkswagen",
           "position":{
-            "es_AR":"Desarrollador full stack",
+            "es_AR":"Administrativa Comercial",
             "en_EN":"Full stack developer"
           },
           "time":{
             "start":{
-              "es_AR":"2016",
-              "en_EN":"2016"
+              "es_AR":"Marzo 2017",
+              "en_EN":"March 2017"
             },
             "end":{
               "es_AR":"Actualidad",
@@ -98,98 +98,49 @@
             }
           },
           "description":{
-            "es_AR":"Diseño, y desarrollo a lo largo de diferentes proyectos tanto de manera individual como también formando parte de distintos grupos de trabajo. Para los cuales permanecí realizando el mantenimiento de los mismos.",
+            "es_AR":"Desarrollo y seguimiento del proceso comercial administrativo,  cumpliendo los objetivos definidos por la empresa en tiempo estipulado, las tareas que desempeño son: contactar a clientes, tomar firmas,cargar créditos prendarios, controlar cuentas y pago de clientes, facturar unidades, confeccionar formularios para inscripciones iniciales o transferencias, cargar certificados, controlar procesos .",
             "en_EN":"Design, and development along different projects both individually and as part of different work groups. For which I remained performing the maintenance of them."
-          },
-          "extra":[
-            {
-              "description":"angular",
-              "classes":"icon--red"
-            },
-            {
-              "description":"js",
-              "classes":"icon--orange"
-            },
-            {
-              "description":"sass",
-              "classes":"icon--red"
-            },
-            {
-              "description":"html5",
-              "classes":"icon--red"
-            },
-            {
-              "description":"github",
-              "classes":"icon--red"
-            },
-            {
-              "description":"php",
-              "classes":"icon--blue"
-            }
-          ]
+          }
         },
         {
-          "companyName": "Freelance",
+          "companyName": "Arias Hnos. S.A. - Concesionario Oficial Volkswagen",
           "position":{
-            "es_AR":"Desarrollador full stack",
+            "es_AR":"Responsable de Calidad",
             "en_EN":"Full stack developer"
           },
           "time":{
             "start":{
-              "es_AR":"2015",
-              "en_EN":"2015"
+              "es_AR":"Octubre 2014",
+              "en_EN":"October 2014"
             },
             "end":{
-              "es_AR":"Actualidad",
-              "en_EN":"Present"
+              "es_AR":"Marzo 2017",
+              "en_EN":"March 2017"
             }
           },
           "description":{
-            "es_AR":"Diseño y desarrollo de aplicaciónes web para diferentes clientes para los cuales se me presentaron distintos desafios.",
+            "es_AR":"Implementar y controlar el cumplimiento de la política de calidad de la empresa, creando planes de acción que permitan mejorar procesos de trabajo.",
             "en_EN":"Design and development of web applications for different clients for which I had to overcome different challenges."
-          },
-          "extra":[
-            {
-              "description":"react"
-            },
-            {
-              "description":"angular"
-            },
-            {
-              "description":"js"
-            },
-            {
-              "description":"sass"
-            },
-            {
-              "description":"html5"
-            },
-            {
-              "description":"github"
-            },
-            {
-              "description":"php"
-            }
-          ]
+          }
         },
         {
-          "companyName": "Inmobiliaria Sar",
+          "companyName": "Café bar - Galería Plaza",
           "position":{
-            "es_AR":"Ventas y administración",
+            "es_AR":"Atención al público",
             "en_EN":"Sales and administration"
           },
           "time":{
             "start":{
-              "es_AR":"2009",
-              "en_EN":"2009"
+              "es_AR":"Diciembre 2008",
+              "en_EN":"Decembre 2008"
             },
             "end":{
-              "es_AR":"2016",
-              "en_EN":"2016"
+              "es_AR":"Octubre 2014",
+              "en_EN":"October 2014"
             }
           },
           "description":{
-            "es_AR":"Atención al público, alquiler y venta de casas y departamentos, manejo de personal y otras tareas administrativas.",
+            "es_AR":"Atención al público, pago de proveedores y caja.",
             "en_EN":"Attention to the public, rent and sale of houses and apartments, personnel management and other administrative tasks."
           }
         }
@@ -203,10 +154,9 @@
       "icon":"education",
       "data":[
         {
-          "companyName": "Universidad Nacional Del Sur, Bahía Blanca",
+          "companyName": "Universidad Virtual de Quilmes",
           "position":{
-            "es_AR":"Licenciatura en Ciencias de la Computación",
-            "en_EN":"Licenciatura, computer science"
+           
           },
           "time":{
             "start":{
@@ -214,33 +164,32 @@
               "en_EN":"2009"
             },
             "end":{
-              "es_AR":"2017",
-              "en_EN":"2017"
+              "es_AR":"2015",
+              "en_EN":"2015"
             }
           },
           "description":{
-            "es_AR":"Promedio: 7,59",
-            "en_EN":"Average: 7,59"
+            "es_AR":"Título obtenido: Licenciatura en Administración",
+            "en_EN":""
           }
         },
         {
-          "companyName": "Universidad Autónoma de Yucatán, México",
+          "companyName": "Instituto Superior en Formación Técnica",
           "position":{
-            "es_AR":"Ingeniería en Software",
-            "en_EN":"Software Engineer"
+           
           },
           "time":{
             "start":{
-              "es_AR":"2015",
-              "en_EN":"2015"
+              "es_AR":"2006",
+              "en_EN":"2006"
             },
             "end":{
-              "es_AR":"2015",
-              "en_EN":"2015"
+              "es_AR":"2009",
+              "en_EN":"2009"
             }
           },
           "description":{
-            "es_AR":"Intercambio académico en el cual me capacité en el desarrollo de aplicaciones móbiles multiplataforma y administración de proyectos de software",
+            "es_AR":"Título obtenido: Técnico en Administración Contable",
             "en_EN":"Academic exchange in which I trained in the development of multiplatform mobile applications and software project management"
           }
         }
@@ -248,50 +197,92 @@
     },
     "languages":{
       "title":{
-        "es_AR": "Idiomas",
+        "es_AR": "Cursos",
         "en_EN": "Languages"
       },
       "icon":"languages",
       "data":[
         {
-          "companyName": "Universidad Nacional Del Sur, Bahía Blanca",
+          "companyName": "Inglés",
           "position":{
-            "es_AR":"Certificado del Marco Común Europeo de Referencias para las Lenguas",
-            "en_EN":"Certificate of the Common European Framework of References for Languages"
+            "es_AR":"Instituto Nottingham",
+            "en_EN":"Nottingham institute"
           },
           "time":{
             "start":{
-              "es_AR":"2015",
-              "en_EN":"2015"
+              "es_AR":"2016",
+              "en_EN":"2016"
             },
             "end":{
-              "es_AR":"2015",
-              "en_EN":"2015"
+              "es_AR":"2017",
+              "en_EN":"2017"
             }
           },
           "description":{
-            "es_AR":"Examen de diagnóstico de inglés en el Programa de idioma inglés de la Universidad Nacional del Sur. Nivel: B1+",
-            "en_EN":"Diagnostic test of English in the English Language Program of the Universidad Nacional del Sur. Level: B1+"
+            "es_AR":"Dos años finalizados de un curso acelereado dictado por el instituto.",
+            "en_EN":""
           }
         },
         {
-          "companyName": "Centro Cambridge, San Antonio Oeste",
+          "companyName": "Seminario de Gestión de Calidad",
           "position":{
-            "es_AR":"Título Centro Cambridge de idioma Inglés",
+            "es_AR":"Rad ISO: 9001",
             "en_EN":"Degree on cambridge center of english language"
           },
           "time":{
             "start":{
-              "es_AR":"2000",
-              "en_EN":"2000"
+              "es_AR":"Septiembre 2016",
+              "en_EN":"September 2016"
             },
             "end":{
-              "es_AR":"2008",
-              "en_EN":"2008"
+              "es_AR":"",
+              "en_EN":""
             }
           },
           "description":{
             "es_AR":"Oral: 78/100. Escrito: 75/100",
+            "en_EN":"Speaking: 78/100. Writing; 75/100"
+          }
+        },
+ 	{
+          "companyName": "Clínica de ventas",
+          "position":{
+            "es_AR":"Jolías Consultores",
+            "en_EN":"Degree on cambridge center of english language"
+          },
+          "time":{
+            "start":{
+              "es_AR":"Octubre 2015",
+              "en_EN":"october 2015"
+            },
+            "end":{
+              "es_AR":"",
+              "en_EN":""
+            }
+          },
+          "description":{
+            "es_AR":"Formación profesional y creativa en ventas y atención al cliente",
+            "en_EN":"Speaking: 78/100. Writing; 75/100"
+          }
+        },
+	{
+          "companyName": "Liquidación de Sueldos",
+          "position":{
+            "es_AR":"Management institute",
+            "en_EN":"Degree on cambridge center of english language"
+          },
+          "time":{
+            "start":{
+              "es_AR":"2013",
+              "en_EN":"october 2015"
+            },
+            "end":{
+              "es_AR":"",
+              "en_EN":""
+            }
+          },
+          "description":{
+            "es_AR":"Liquidación de sueldos y jornales",
             "en_EN":"Speaking: 78/100. Writing; 75/100"
           }
         }
